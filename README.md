@@ -26,6 +26,7 @@ ___
 ===
 
 >Корневой путь: https://api.candidate.u-mix.ru/
+
 >[get]:getAll: /getAll - возвращает все записи из todo
 
 >[get]:get/{id} - возрващает тот что совпал с id
